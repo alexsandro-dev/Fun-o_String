@@ -15,8 +15,8 @@ public class Program {
 		String s07 = original.replace("abc", "xy");
 		int i = original.indexOf("e");
 		int j = original.lastIndexOf("e");
-		String s =  "potato apple lemoon";
 		
+		String s =  "potato apple lemoon";
 		String[] vect = s.split(" ");
 		
 		System.out.println("Original : " + original);
